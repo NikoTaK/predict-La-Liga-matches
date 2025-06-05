@@ -1,0 +1,381 @@
+﻿Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+15/08/2024,Ath Bilbao,Getafe,1,1,D,1,0,H
+15/08/2024,Betis,Girona,1,1,D,1,0,H
+16/08/2024,Celta,Alaves,2,1,H,0,1,A
+16/08/2024,Las Palmas,Sevilla,2,2,D,1,1,D
+17/08/2024,Osasuna,Leganes,1,1,D,0,1,A
+17/08/2024,Valencia,Barcelona,1,2,A,1,1,D
+18/08/2024,Sociedad,Vallecano,1,2,A,0,0,D
+18/08/2024,Mallorca,Real Madrid,1,1,D,0,1,A
+19/08/2024,Valladolid,Espanol,1,0,H,1,0,H
+19/08/2024,Villarreal,Ath Madrid,2,2,D,2,2,D
+23/08/2024,Celta,Valencia,3,1,H,2,1,H
+23/08/2024,Sevilla,Villarreal,1,2,A,1,1,D
+24/08/2024,Osasuna,Mallorca,1,0,H,0,0,D
+24/08/2024,Barcelona,Ath Bilbao,2,1,H,1,1,D
+24/08/2024,Espanol,Sociedad,0,1,A,0,0,D
+24/08/2024,Getafe,Vallecano,0,0,D,0,0,D
+25/08/2024,Real Madrid,Valladolid,3,0,H,0,0,D
+25/08/2024,Leganes,Las Palmas,2,1,H,0,0,D
+25/08/2024,Alaves,Betis,0,0,D,0,0,D
+25/08/2024,Ath Madrid,Girona,3,0,H,1,0,H
+26/08/2024,Villarreal,Celta,4,3,H,1,2,A
+27/08/2024,Mallorca,Sevilla,0,0,D,0,0,D
+27/08/2024,Vallecano,Barcelona,1,2,A,1,0,H
+28/08/2024,Ath Bilbao,Valencia,1,0,H,1,0,H
+28/08/2024,Valladolid,Leganes,0,0,D,0,0,D
+28/08/2024,Ath Madrid,Espanol,0,0,D,0,0,D
+28/08/2024,Sociedad,Alaves,1,2,A,1,1,D
+29/08/2024,Girona,Osasuna,4,0,H,1,0,H
+29/08/2024,Las Palmas,Real Madrid,1,1,D,1,0,H
+31/08/2024,Barcelona,Valladolid,7,0,H,3,0,H
+31/08/2024,Ath Bilbao,Ath Madrid,0,1,A,0,0,D
+31/08/2024,Espanol,Vallecano,2,1,H,1,1,D
+31/08/2024,Leganes,Mallorca,0,1,A,0,1,A
+31/08/2024,Valencia,Villarreal,1,1,D,1,1,D
+01/09/2024,Alaves,Las Palmas,2,0,H,1,0,H
+01/09/2024,Osasuna,Celta,3,2,H,2,1,H
+01/09/2024,Sevilla,Girona,0,2,A,0,1,A
+01/09/2024,Getafe,Sociedad,0,0,D,0,0,D
+01/09/2024,Real Madrid,Betis,2,0,H,0,0,D
+13/09/2024,Betis,Leganes,2,0,H,0,0,D
+14/09/2024,Mallorca,Villarreal,1,2,A,0,1,A
+14/09/2024,Espanol,Alaves,3,2,H,1,1,D
+14/09/2024,Sevilla,Getafe,1,0,H,1,0,H
+14/09/2024,Sociedad,Real Madrid,0,2,A,0,0,D
+15/09/2024,Celta,Valladolid,3,1,H,2,0,H
+15/09/2024,Girona,Barcelona,1,4,A,0,2,A
+15/09/2024,Las Palmas,Ath Bilbao,2,3,A,0,2,A
+15/09/2024,Ath Madrid,Valencia,3,0,H,1,0,H
+16/09/2024,Vallecano,Osasuna,3,1,H,0,1,A
+17/09/2024,Mallorca,Sociedad,1,0,H,1,0,H
+18/09/2024,Betis,Getafe,2,1,H,0,0,D
+19/09/2024,Leganes,Ath Bilbao,0,2,A,0,0,D
+20/09/2024,Alaves,Sevilla,2,1,H,1,0,H
+21/09/2024,Valladolid,Sociedad,0,0,D,0,0,D
+21/09/2024,Osasuna,Las Palmas,2,1,H,1,1,D
+21/09/2024,Valencia,Girona,2,0,H,0,0,D
+21/09/2024,Real Madrid,Espanol,4,1,H,0,0,D
+22/09/2024,Getafe,Leganes,1,1,D,0,0,D
+22/09/2024,Ath Bilbao,Celta,3,1,H,2,1,H
+22/09/2024,Villarreal,Barcelona,1,5,A,1,2,A
+22/09/2024,Vallecano,Ath Madrid,1,1,D,1,0,H
+23/09/2024,Betis,Mallorca,1,2,A,1,1,D
+24/09/2024,Sevilla,Valladolid,2,1,H,1,0,H
+24/09/2024,Valencia,Osasuna,0,0,D,0,0,D
+24/09/2024,Real Madrid,Alaves,3,2,H,2,0,H
+25/09/2024,Girona,Vallecano,0,0,D,0,0,D
+25/09/2024,Barcelona,Getafe,1,0,H,1,0,H
+26/09/2024,Espanol,Villarreal,1,2,A,1,1,D
+26/09/2024,Las Palmas,Betis,1,1,D,1,1,D
+26/09/2024,Celta,Ath Madrid,0,1,A,0,0,D
+27/09/2024,Valladolid,Mallorca,1,2,A,0,0,D
+28/09/2024,Getafe,Alaves,2,0,H,1,0,H
+28/09/2024,Vallecano,Leganes,1,1,D,1,0,H
+28/09/2024,Sociedad,Valencia,3,0,H,1,0,H
+28/09/2024,Osasuna,Barcelona,4,2,H,2,0,H
+29/09/2024,Celta,Girona,1,1,D,0,1,A
+29/09/2024,Ath Bilbao,Sevilla,1,1,D,1,0,H
+29/09/2024,Betis,Espanol,1,0,H,0,0,D
+29/09/2024,Ath Madrid,Real Madrid,1,1,D,0,0,D
+30/09/2024,Villarreal,Las Palmas,3,1,H,1,0,H
+04/10/2024,Leganes,Valencia,0,0,D,0,0,D
+05/10/2024,Espanol,Mallorca,2,1,H,1,0,H
+05/10/2024,Getafe,Osasuna,1,1,D,1,0,H
+05/10/2024,Las Palmas,Celta,0,1,A,0,1,A
+05/10/2024,Valladolid,Vallecano,1,2,A,0,0,D
+05/10/2024,Real Madrid,Villarreal,2,0,H,1,0,H
+06/10/2024,Girona,Ath Bilbao,2,1,H,1,1,D
+06/10/2024,Alaves,Barcelona,0,3,A,0,3,A
+06/10/2024,Sevilla,Betis,1,0,H,0,0,D
+06/10/2024,Sociedad,Ath Madrid,1,1,D,0,1,A
+18/10/2024,Alaves,Valladolid,2,3,A,1,1,D
+19/10/2024,Ath Bilbao,Espanol,4,1,H,3,0,H
+19/10/2024,Osasuna,Betis,1,2,A,0,1,A
+19/10/2024,Girona,Sociedad,0,1,A,0,1,A
+19/10/2024,Celta,Real Madrid,1,2,A,0,1,A
+20/10/2024,Mallorca,Vallecano,1,0,H,0,0,D
+20/10/2024,Ath Madrid,Leganes,3,1,H,0,1,A
+20/10/2024,Villarreal,Getafe,1,1,D,1,0,H
+20/10/2024,Barcelona,Sevilla,5,1,H,3,0,H
+21/10/2024,Valencia,Las Palmas,2,3,A,1,1,D
+25/10/2024,Espanol,Sevilla,0,2,A,0,2,A
+26/10/2024,Valladolid,Villarreal,1,2,A,0,1,A
+26/10/2024,Vallecano,Alaves,1,0,H,0,0,D
+26/10/2024,Las Palmas,Girona,1,0,H,1,0,H
+26/10/2024,Real Madrid,Barcelona,0,4,A,0,0,D
+27/10/2024,Leganes,Celta,3,0,H,0,0,D
+27/10/2024,Getafe,Valencia,1,1,D,0,1,A
+27/10/2024,Betis,Ath Madrid,1,0,H,1,0,H
+27/10/2024,Sociedad,Osasuna,0,2,A,0,2,A
+28/10/2024,Mallorca,Ath Bilbao,0,0,D,0,0,D
+01/11/2024,Alaves,Mallorca,1,0,H,0,0,D
+02/11/2024,Osasuna,Valladolid,1,0,H,1,0,H
+02/11/2024,Girona,Leganes,4,3,H,2,2,D
+03/11/2024,Ath Madrid,Las Palmas,2,0,H,1,0,H
+03/11/2024,Barcelona,Espanol,3,1,H,3,0,H
+03/11/2024,Sevilla,Sociedad,0,2,A,0,1,A
+03/11/2024,Ath Bilbao,Betis,1,1,D,0,0,D
+04/11/2024,Celta,Getafe,1,0,H,1,0,H
+08/11/2024,Vallecano,Las Palmas,1,3,A,0,1,A
+09/11/2024,Real Madrid,Osasuna,4,0,H,2,0,H
+09/11/2024,Villarreal,Alaves,3,0,H,1,0,H
+09/11/2024,Leganes,Sevilla,1,0,H,0,0,D
+10/11/2024,Betis,Celta,2,2,D,1,1,D
+10/11/2024,Mallorca,Ath Madrid,0,1,A,0,0,D
+10/11/2024,Getafe,Girona,0,1,A,0,1,A
+10/11/2024,Valladolid,Ath Bilbao,1,1,D,0,0,D
+10/11/2024,Sociedad,Barcelona,1,0,H,1,0,H
+22/11/2024,Getafe,Valladolid,2,0,H,0,0,D
+23/11/2024,Valencia,Betis,4,2,H,1,1,D
+23/11/2024,Ath Madrid,Alaves,2,1,H,0,1,A
+23/11/2024,Girona,Espanol,4,1,H,4,0,H
+23/11/2024,Las Palmas,Mallorca,2,3,A,0,0,D
+23/11/2024,Celta,Barcelona,2,2,D,0,1,A
+24/11/2024,Osasuna,Villarreal,2,2,D,2,0,H
+24/11/2024,Sevilla,Vallecano,1,0,H,1,0,H
+24/11/2024,Leganes,Real Madrid,0,3,A,0,1,A
+24/11/2024,Ath Bilbao,Sociedad,1,0,H,1,0,H
+29/11/2024,Mallorca,Valencia,2,1,H,1,1,D
+30/11/2024,Barcelona,Las Palmas,1,2,A,0,0,D
+30/11/2024,Alaves,Leganes,1,1,D,0,0,D
+30/11/2024,Espanol,Celta,3,1,H,1,0,H
+30/11/2024,Valladolid,Ath Madrid,0,5,A,0,3,A
+01/12/2024,Villarreal,Girona,2,2,D,1,0,H
+01/12/2024,Real Madrid,Getafe,2,0,H,2,0,H
+01/12/2024,Vallecano,Ath Bilbao,1,2,A,1,0,H
+01/12/2024,Sociedad,Betis,2,0,H,2,0,H
+02/12/2024,Sevilla,Osasuna,1,1,D,0,0,D
+03/12/2024,Mallorca,Barcelona,1,5,A,1,1,D
+04/12/2024,Ath Bilbao,Real Madrid,2,1,H,0,0,D
+06/12/2024,Celta,Mallorca,2,0,H,1,0,H
+07/12/2024,Las Palmas,Valladolid,2,1,H,1,1,D
+07/12/2024,Betis,Barcelona,2,2,D,0,1,A
+07/12/2024,Valencia,Vallecano,0,1,A,0,1,A
+07/12/2024,Girona,Real Madrid,0,3,A,0,1,A
+08/12/2024,Leganes,Sociedad,0,3,A,0,1,A
+08/12/2024,Ath Bilbao,Villarreal,2,0,H,1,0,H
+08/12/2024,Osasuna,Alaves,2,2,D,0,1,A
+08/12/2024,Ath Madrid,Sevilla,4,3,H,1,2,A
+09/12/2024,Getafe,Espanol,1,0,H,1,0,H
+13/12/2024,Valladolid,Valencia,1,0,H,1,0,H
+14/12/2024,Espanol,Osasuna,0,0,D,0,0,D
+14/12/2024,Mallorca,Girona,2,1,H,1,1,D
+14/12/2024,Sevilla,Celta,1,0,H,0,0,D
+14/12/2024,Vallecano,Real Madrid,3,3,D,2,2,D
+15/12/2024,Ath Madrid,Getafe,1,0,H,0,0,D
+15/12/2024,Alaves,Ath Bilbao,1,1,D,0,1,A
+15/12/2024,Sociedad,Las Palmas,0,0,D,0,0,D
+15/12/2024,Villarreal,Betis,1,2,A,0,1,A
+15/12/2024,Barcelona,Leganes,0,1,A,0,1,A
+18/12/2024,Espanol,Valencia,1,1,D,1,0,H
+18/12/2024,Villarreal,Vallecano,1,1,D,1,1,D
+20/12/2024,Girona,Valladolid,3,0,H,2,0,H
+21/12/2024,Getafe,Mallorca,0,1,A,0,0,D
+21/12/2024,Celta,Sociedad,2,0,H,2,0,H
+21/12/2024,Osasuna,Ath Bilbao,1,2,A,1,1,D
+21/12/2024,Barcelona,Ath Madrid,1,2,A,1,0,H
+22/12/2024,Valencia,Alaves,2,2,D,0,1,A
+22/12/2024,Real Madrid,Sevilla,4,2,H,3,1,H
+22/12/2024,Las Palmas,Espanol,1,0,H,0,0,D
+22/12/2024,Leganes,Villarreal,2,5,A,2,2,D
+22/12/2024,Betis,Vallecano,1,1,D,1,0,H
+03/01/2025,Valencia,Real Madrid,1,2,A,1,0,H
+10/01/2025,Vallecano,Celta,2,1,H,1,1,D
+11/01/2025,Alaves,Girona,0,1,A,0,0,D
+11/01/2025,Valladolid,Betis,1,0,H,0,0,D
+11/01/2025,Espanol,Leganes,1,1,D,1,1,D
+11/01/2025,Sevilla,Valencia,1,1,D,0,0,D
+12/01/2025,Las Palmas,Getafe,1,2,A,0,0,D
+12/01/2025,Ath Madrid,Osasuna,1,0,H,0,0,D
+13/01/2025,Sociedad,Villarreal,1,0,H,0,0,D
+17/01/2025,Espanol,Valladolid,2,1,H,1,0,H
+18/01/2025,Girona,Sevilla,1,2,A,1,0,H
+18/01/2025,Leganes,Ath Madrid,1,0,H,0,0,D
+18/01/2025,Betis,Alaves,1,3,A,1,1,D
+18/01/2025,Getafe,Barcelona,1,1,D,1,1,D
+19/01/2025,Celta,Ath Bilbao,1,2,A,0,0,D
+19/01/2025,Real Madrid,Las Palmas,4,1,H,3,1,H
+19/01/2025,Osasuna,Vallecano,1,1,D,0,1,A
+19/01/2025,Valencia,Sociedad,1,0,H,1,0,H
+20/01/2025,Villarreal,Mallorca,4,0,H,4,0,H
+24/01/2025,Las Palmas,Osasuna,1,1,D,0,0,D
+25/01/2025,Mallorca,Betis,0,1,A,0,0,D
+25/01/2025,Ath Madrid,Villarreal,1,1,D,0,1,A
+25/01/2025,Sevilla,Espanol,1,1,D,0,1,A
+25/01/2025,Valladolid,Real Madrid,0,3,A,0,1,A
+26/01/2025,Vallecano,Girona,2,1,H,0,0,D
+26/01/2025,Sociedad,Getafe,0,3,A,0,0,D
+26/01/2025,Ath Bilbao,Leganes,0,0,D,0,0,D
+26/01/2025,Barcelona,Valencia,7,1,H,5,0,H
+27/01/2025,Alaves,Celta,1,1,D,1,0,H
+31/01/2025,Leganes,Vallecano,0,1,A,0,0,D
+01/02/2025,Getafe,Sevilla,0,0,D,0,0,D
+01/02/2025,Villarreal,Valladolid,5,1,H,1,0,H
+01/02/2025,Ath Madrid,Mallorca,2,0,H,1,0,H
+01/02/2025,Espanol,Real Madrid,1,0,H,0,0,D
+02/02/2025,Barcelona,Alaves,1,0,H,0,0,D
+02/02/2025,Valencia,Celta,2,1,H,1,0,H
+02/02/2025,Osasuna,Sociedad,2,1,H,1,0,H
+02/02/2025,Betis,Ath Bilbao,2,2,D,2,1,H
+03/02/2025,Girona,Las Palmas,2,1,H,1,0,H
+07/02/2025,Vallecano,Valladolid,1,0,H,0,0,D
+08/02/2025,Celta,Betis,3,2,H,0,2,A
+08/02/2025,Ath Bilbao,Girona,3,0,H,2,0,H
+08/02/2025,Las Palmas,Villarreal,1,2,A,0,0,D
+08/02/2025,Real Madrid,Ath Madrid,1,1,D,0,1,A
+09/02/2025,Alaves,Getafe,0,1,A,0,1,A
+09/02/2025,Valencia,Leganes,2,0,H,2,0,H
+09/02/2025,Sociedad,Espanol,2,1,H,1,0,H
+09/02/2025,Sevilla,Barcelona,1,4,A,1,1,D
+10/02/2025,Mallorca,Osasuna,1,1,D,0,0,D
+14/02/2025,Girona,Getafe,1,2,A,0,1,A
+15/02/2025,Leganes,Alaves,3,3,D,2,1,H
+15/02/2025,Osasuna,Real Madrid,1,1,D,0,1,A
+15/02/2025,Ath Madrid,Celta,1,1,D,0,0,D
+15/02/2025,Villarreal,Valencia,1,1,D,1,0,H
+16/02/2025,Espanol,Ath Bilbao,1,1,D,0,0,D
+16/02/2025,Valladolid,Sevilla,0,4,A,0,2,A
+16/02/2025,Mallorca,Las Palmas,3,1,H,3,0,H
+16/02/2025,Betis,Sociedad,3,0,H,0,0,D
+17/02/2025,Barcelona,Vallecano,1,0,H,1,0,H
+21/02/2025,Celta,Osasuna,1,0,H,0,0,D
+22/02/2025,Alaves,Espanol,0,1,A,0,0,D
+22/02/2025,Vallecano,Villarreal,0,1,A,0,0,D
+22/02/2025,Valencia,Ath Madrid,0,3,A,0,2,A
+22/02/2025,Las Palmas,Barcelona,0,2,A,0,0,D
+23/02/2025,Ath Bilbao,Valladolid,7,1,H,4,0,H
+23/02/2025,Real Madrid,Girona,2,0,H,1,0,H
+23/02/2025,Getafe,Betis,1,2,A,0,1,A
+23/02/2025,Sociedad,Leganes,3,0,H,1,0,H
+24/02/2025,Sevilla,Mallorca,1,1,D,1,0,H
+28/02/2025,Valladolid,Las Palmas,1,1,D,0,1,A
+01/03/2025,Girona,Celta,2,2,D,1,1,D
+01/03/2025,Vallecano,Sevilla,1,1,D,0,0,D
+01/03/2025,Betis,Real Madrid,2,1,H,1,1,D
+01/03/2025,Ath Madrid,Ath Bilbao,1,0,H,0,0,D
+02/03/2025,Leganes,Getafe,1,0,H,0,0,D
+02/03/2025,Barcelona,Sociedad,4,0,H,2,0,H
+02/03/2025,Mallorca,Alaves,1,1,D,1,0,H
+02/03/2025,Osasuna,Valencia,3,3,D,3,2,H
+08/03/2025,Celta,Leganes,2,1,H,2,1,H
+08/03/2025,Alaves,Villarreal,1,0,H,1,0,H
+08/03/2025,Valencia,Valladolid,2,1,H,1,1,D
+09/03/2025,Getafe,Ath Madrid,2,1,H,0,0,D
+09/03/2025,Real Madrid,Vallecano,2,1,H,2,1,H
+09/03/2025,Ath Bilbao,Mallorca,1,1,D,0,0,D
+09/03/2025,Betis,Las Palmas,1,0,H,0,0,D
+09/03/2025,Sociedad,Sevilla,0,1,A,0,0,D
+10/03/2025,Espanol,Girona,1,1,D,0,0,D
+14/03/2025,Las Palmas,Alaves,2,2,D,0,1,A
+15/03/2025,Valladolid,Celta,0,1,A,0,0,D
+15/03/2025,Mallorca,Espanol,2,1,H,0,0,D
+15/03/2025,Villarreal,Real Madrid,1,2,A,1,2,A
+15/03/2025,Girona,Valencia,1,1,D,0,0,D
+16/03/2025,Leganes,Betis,2,3,A,2,0,H
+16/03/2025,Sevilla,Ath Bilbao,0,1,A,0,0,D
+16/03/2025,Osasuna,Getafe,1,2,A,1,0,H
+16/03/2025,Vallecano,Sociedad,2,2,D,0,1,A
+16/03/2025,Ath Madrid,Barcelona,2,4,A,1,0,H
+27/03/2025,Barcelona,Osasuna,3,0,H,2,0,H
+29/03/2025,Sociedad,Valladolid,2,1,H,1,0,H
+29/03/2025,Espanol,Ath Madrid,1,1,D,0,1,A
+29/03/2025,Alaves,Vallecano,0,2,A,0,1,A
+29/03/2025,Real Madrid,Leganes,3,2,H,1,2,A
+30/03/2025,Getafe,Villarreal,1,2,A,1,2,A
+30/03/2025,Barcelona,Girona,4,1,H,1,0,H
+30/03/2025,Ath Bilbao,Osasuna,0,0,D,0,0,D
+30/03/2025,Valencia,Mallorca,1,0,H,0,0,D
+30/03/2025,Betis,Sevilla,2,1,H,2,1,H
+31/03/2025,Celta,Las Palmas,1,1,D,1,0,H
+04/04/2025,Vallecano,Espanol,0,4,A,0,2,A
+05/04/2025,Girona,Alaves,0,1,A,0,0,D
+05/04/2025,Real Madrid,Valencia,1,2,A,0,1,A
+05/04/2025,Mallorca,Celta,1,2,A,1,0,H
+05/04/2025,Barcelona,Betis,1,1,D,1,1,D
+06/04/2025,Las Palmas,Sociedad,1,3,A,0,1,A
+06/04/2025,Sevilla,Ath Madrid,1,2,A,1,1,D
+06/04/2025,Valladolid,Getafe,0,4,A,0,3,A
+06/04/2025,Villarreal,Ath Bilbao,0,0,D,0,0,D
+07/04/2025,Leganes,Osasuna,1,1,D,0,0,D
+11/04/2025,Valencia,Sevilla,1,0,H,1,0,H
+12/04/2025,Sociedad,Mallorca,0,2,A,0,1,A
+12/04/2025,Getafe,Las Palmas,1,3,A,1,0,H
+12/04/2025,Celta,Espanol,0,2,A,0,1,A
+12/04/2025,Leganes,Barcelona,0,1,A,0,0,D
+13/04/2025,Osasuna,Girona,2,1,H,1,0,H
+13/04/2025,Alaves,Real Madrid,0,1,A,0,1,A
+13/04/2025,Betis,Villarreal,1,2,A,1,1,D
+13/04/2025,Ath Bilbao,Vallecano,3,1,H,0,1,A
+14/04/2025,Ath Madrid,Valladolid,4,2,H,2,1,H
+18/04/2025,Espanol,Getafe,1,0,H,1,0,H
+19/04/2025,Vallecano,Valencia,1,1,D,1,0,H
+19/04/2025,Barcelona,Celta,4,3,H,1,1,D
+19/04/2025,Mallorca,Leganes,0,0,D,0,0,D
+19/04/2025,Las Palmas,Ath Madrid,1,0,H,0,0,D
+20/04/2025,Valladolid,Osasuna,2,3,A,0,2,A
+20/04/2025,Villarreal,Sociedad,2,2,D,1,1,D
+20/04/2025,Sevilla,Alaves,1,1,D,1,1,D
+20/04/2025,Real Madrid,Ath Bilbao,1,0,H,0,0,D
+21/04/2025,Girona,Betis,1,3,A,0,3,A
+22/04/2025,Valencia,Espanol,1,1,D,0,1,A
+22/04/2025,Barcelona,Mallorca,1,0,H,0,0,D
+23/04/2025,Ath Bilbao,Las Palmas,1,0,H,1,0,H
+23/04/2025,Celta,Villarreal,3,0,H,1,0,H
+23/04/2025,Alaves,Sociedad,1,0,H,0,0,D
+23/04/2025,Getafe,Real Madrid,0,1,A,0,1,A
+24/04/2025,Leganes,Girona,1,1,D,0,0,D
+24/04/2025,Osasuna,Sevilla,1,0,H,1,0,H
+24/04/2025,Ath Madrid,Vallecano,3,0,H,2,0,H
+24/04/2025,Betis,Valladolid,5,1,H,1,1,D
+27/04/2025,Villarreal,Espanol,1,0,H,0,0,D
+02/05/2025,Vallecano,Getafe,1,0,H,1,0,H
+03/05/2025,Alaves,Ath Madrid,0,0,D,0,0,D
+03/05/2025,Villarreal,Osasuna,4,2,H,3,0,H
+03/05/2025,Las Palmas,Valencia,2,3,A,1,1,D
+03/05/2025,Valladolid,Barcelona,1,2,A,1,0,H
+04/05/2025,Real Madrid,Celta,3,2,H,2,0,H
+04/05/2025,Sevilla,Leganes,2,2,D,1,1,D
+04/05/2025,Espanol,Betis,1,2,A,1,0,H
+04/05/2025,Sociedad,Ath Bilbao,0,0,D,0,0,D
+05/05/2025,Girona,Mallorca,1,0,H,1,0,H
+09/05/2025,Las Palmas,Vallecano,0,1,A,0,0,D
+10/05/2025,Valencia,Getafe,3,0,H,3,0,H
+10/05/2025,Celta,Sevilla,3,2,H,1,1,D
+10/05/2025,Girona,Villarreal,0,1,A,0,0,D
+10/05/2025,Mallorca,Valladolid,2,1,H,1,1,D
+10/05/2025,Ath Madrid,Sociedad,4,0,H,4,0,H
+11/05/2025,Leganes,Espanol,3,2,H,2,0,H
+11/05/2025,Barcelona,Real Madrid,4,3,H,4,2,H
+11/05/2025,Ath Bilbao,Alaves,1,0,H,0,0,D
+11/05/2025,Betis,Osasuna,1,1,D,0,0,D
+13/05/2025,Valladolid,Girona,0,1,A,0,0,D
+13/05/2025,Sociedad,Celta,0,1,A,0,1,A
+13/05/2025,Sevilla,Las Palmas,1,0,H,0,0,D
+14/05/2025,Alaves,Valencia,1,0,H,0,0,D
+14/05/2025,Villarreal,Leganes,3,0,H,3,0,H
+14/05/2025,Real Madrid,Mallorca,2,1,H,0,1,A
+15/05/2025,Vallecano,Betis,2,2,D,2,0,H
+15/05/2025,Osasuna,Ath Madrid,2,0,H,1,0,H
+15/05/2025,Espanol,Barcelona,0,2,A,0,0,D
+15/05/2025,Getafe,Ath Bilbao,0,2,A,0,0,D
+18/05/2025,Ath Madrid,Betis,4,1,H,2,0,H
+18/05/2025,Barcelona,Villarreal,2,3,A,2,1,H
+18/05/2025,Celta,Vallecano,1,2,A,1,2,A
+18/05/2025,Las Palmas,Leganes,0,1,A,0,1,A
+18/05/2025,Mallorca,Getafe,1,2,A,0,0,D
+18/05/2025,Osasuna,Espanol,2,0,H,1,0,H
+18/05/2025,Sevilla,Real Madrid,0,2,A,0,0,D
+18/05/2025,Sociedad,Girona,3,2,H,2,1,H
+18/05/2025,Valencia,Ath Bilbao,0,1,A,0,0,D
+18/05/2025,Valladolid,Alaves,0,1,A,0,1,A
+23/05/2025,Betis,Valencia,1,1,D,1,0,H
+24/05/2025,Real Madrid,Sociedad,2,0,H,1,0,H
+24/05/2025,Espanol,Las Palmas,2,0,H,0,0,D
+24/05/2025,Leganes,Valladolid,3,0,H,3,0,H
+24/05/2025,Alaves,Osasuna,1,1,D,0,0,D
+24/05/2025,Getafe,Celta,1,2,A,1,1,D
+24/05/2025,Vallecano,Mallorca,0,0,D,0,0,D
+25/05/2025,Girona,Ath Madrid,0,4,A,0,0,D
+25/05/2025,Villarreal,Sevilla,4,2,H,3,1,H
+25/05/2025,Ath Bilbao,Barcelona,0,3,A,0,2,A
