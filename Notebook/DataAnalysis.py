@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import LabelEncoder
 
 df_train = pd.read_csv('Data/LaLiga_Matches.csv')
-df_test = pd.read_csv('Data/Matches24-25.csv')
+df_test = pd.read_csv('Data/SP1_all_seasons.csv')
 
 print("Full history shape:", df_train.shape)
 print("2024-2025 season shape:", df_test.shape)
@@ -29,4 +29,4 @@ df_train['AwayTeam_enc'] = le.fit_transform(df_train['AwayTeam'])
 
 print(df_train[['GoalDiff', 'HomeTeam_enc', 'AwayTeam_enc']].head())
 
-print(df_train.columns)
+print(df_train.head())
