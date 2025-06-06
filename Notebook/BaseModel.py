@@ -56,7 +56,6 @@ weight_dict[draw_idx] *= 1.5
 model = LogisticRegression(max_iter=1000, multi_class='multinomial', class_weight=weight_dict)
 model.fit(X_train, y_train)
 
-# Evaluate
 preds = model.predict(X_test)
 accuracy = accuracy_score(y_test, preds)
 print(f"Accuracy: {accuracy:.4f}")
