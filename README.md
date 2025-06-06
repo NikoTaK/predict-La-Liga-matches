@@ -16,9 +16,9 @@ This project aims to analyze and predict the outcomes of Spanish La Liga footbal
 ## Setup
 
 1. **Clone the repository**
-2. **Install dependencies**:
+2. **With your environment activated Install dependencies**:
    ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn xgboost
+   pip freeze > requirements.txt
    ```
 3. **Ensure data files are in the `Data/` directory**
 
