@@ -103,3 +103,11 @@ probs = best_model.predict_proba(X_test)
 print('Accuracy:', accuracy_score(y_test, preds))
 print('Log Loss:', log_loss(y_test, probs))
 print(classification_report(y_test, preds, target_names=result_le.classes_))
+
+# Feature importance
+importances = best_model.named_steps['model'].feature_importances_
+feature_names = feature_cols
+
+print("Feature importances:")
+for name, importance in zip(feature_names, importances):
+    print(f"{name}: {importance:.4f}")

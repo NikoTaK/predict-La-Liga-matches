@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import LabelEncoder
+import seaborn as sns
 
 df_train = pd.read_csv('Data/SP1_all_seasons.csv')
 df_test = pd.read_csv('Data/Matches24-25.csv')
@@ -22,9 +23,12 @@ print(f"Home Wins: {dist.get('H', 0):.2f}%")
 print(f"Draws: {dist.get('D', 0):.2f}%")
 print(f"Away Wins: {dist.get('A', 0):.2f}%")
 
-num_cols = ['FTHG', 'FTAG']
-df_train[num_cols].hist(bins=20, figsize=(10,4))
-plt.suptitle('Goal Distributions')
+plt.figure(figsize=(8, 5))
+total_home_goals = df_train['FTHG'].sum()
+total_away_goals = df_train['FTAG'].sum()
+plt.bar(['Home Goals', 'Away Goals'], [total_home_goals, total_away_goals], color=['blue', 'orange'])
+plt.title('Total Goals Scored (Home vs Away)')
+plt.ylabel('Total Goals')
 plt.show()
 
 df_train['GoalDiff'] = df_train['FTHG'] - df_train['FTAG']
